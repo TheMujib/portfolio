@@ -8,13 +8,6 @@
 
 ---
 
-<ul align="center">
-
-<object data="https://www.mujib.tech" width="600" height="400">
-</object>
-
-</ul>
-
 ---
 
 <h2>License</h2>
