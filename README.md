@@ -10,7 +10,8 @@
 
 <ul align="center">
 
-<embed src="https://www.mujib.tech" width="600" height="400"></embed>
+<object data="https://www.mujib.tech" width="600" height="400">
+</object>
 
 </ul>
 
