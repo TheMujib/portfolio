@@ -22,6 +22,7 @@ width="560" height="315" src="https://www.mujib.tech" title="Portfolio" framebor
 
 ![GitHub](https://img.shields.io/github/license/TheMujib/portfolio?style=for-the-badge)
 
-Built by <a href="https://github.com/TheMujib">@TheMujib</a> for his own portfolio. **Copyright (c) 2021 by Mujib Sayyad**. You are allowed to use this webpage for both personal and commercial use, but **NOT** to claim it as your own design. **A credit to the original author, Mujib Sayyad, is a must!**
+Built by <a href="https://github.com/TheMujib">@TheMujib</a> for his own portfolio. **Copyright (c) 2021 by Mujib Sayyad**. You are allowed to use this webpage for both personal and commercial use, but **NOT** to claim it as your own design. 
+**A credit to the original author, Mujib Sayyad, is a must!**
 
 I value keeping my site open source, but as you all know, _**plagiarism is bad**_. It's always disheartening whenever I find that someone has copied my site without giving me credit. I spent a non-trivial amount of effort building and designing this iteration of my website, and I am proud of it! All I ask of you all is to not claim this effort as your own.
