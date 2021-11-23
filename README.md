@@ -1,5 +1,3 @@
-# portfolio
-
 <h1 align="center"><a href="https://mujib.tech">mujib.tech</a> - Mujib Sayyad's Portfolio</h1>
 
 ![Lines of code](https://img.shields.io/tokei/lines/github/themujib/portfolio?style=flat-square) ![GitHub last commit](https://img.shields.io/github/last-commit/themujib/portfolio?style=flat-square&logo=github) <a href="https://discord.gg/kSfSwFEGFr">![Discord](https://img.shields.io/discord/686069011481362462?logo=discord&style=flat-square)</a> ![GitHub top language](https://img.shields.io/github/languages/top/themujib/portfolio?logo=typescript&logoColor=white&style=flat-square)
